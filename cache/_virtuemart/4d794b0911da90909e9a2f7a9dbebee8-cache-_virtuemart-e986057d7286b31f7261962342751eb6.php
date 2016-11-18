@@ -1,1 +1,0 @@
-<?php die("Access Denied"); ?>#x#a:2:{s:6:"output";s:0:"";s:6:"result";s:169:"<option   value="6">CLASSIC</option><option   value="2">FAVOURITE</option><option selected=\"selected\"  value="8">SIGNATURE</option><option   value="3">SUPREME</option>";}
